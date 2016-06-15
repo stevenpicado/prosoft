@@ -20,6 +20,7 @@
   - Provide a better UI
   - Display additional data like amount of days, amount of months and amount of holidays in search span
   - Display a datepicker instead of an open input field in start_date field to avoid users from choosing invalid dates
+  - Fix all the bugs and make more tests.
 
 
 # Additional notes
